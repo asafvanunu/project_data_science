@@ -1,0 +1,187 @@
+name,slug,percent_of_gdp,date_of_information,ranking,region
+Mongolia,mongolia,8.62,2018,1,East Asia/Southeast Asia
+Mozambique,mozambique,4.17,2018,2,Africa
+South-Africa,south-africa,2.4,2018,3,Africa
+India,india,1.15,2018,4,South Asia
+Indonesia,indonesia,1.06,2018,5,East Asia/Southeast Asia
+Kazakhstan,kazakhstan,0.99,2018,6,Central Asia
+Australia,australia,0.78,2018,7,Australia - Oceania
+Colombia,colombia,0.75,2018,8,South America
+China,china,0.57,2018,9,East Asia/Southeast Asia
+Tajikistan,tajikistan,0.54,2018,10,Central Asia
+Russia,russia,0.53,2018,11,Central Asia
+Afghanistan,afghanistan,0.45,2018,12,South Asia
+Botswana,botswana,0.45,2018,13,Africa
+Ukraine,ukraine,0.42,2018,14,Europe
+Zimbabwe,zimbabwe,0.4,2018,15,Africa
+Vietnam,vietnam,0.35,2018,16,East Asia/Southeast Asia
+Bosnia-and-Herzegovina,bosnia-and-herzegovina,0.34,2018,17,Europe
+Kosovo,kosovo,0.31,2018,18,Europe
+Poland,poland,0.27,2018,19,Europe
+Serbia,serbia,0.25,2018,20,Europe
+Kyrgyzstan,kyrgyzstan,0.21,2018,21,Central Asia
+United-States,united-states,0.2,2018,22,North America
+Bulgaria,bulgaria,0.14,2018,23,Europe
+Czechia,czechia,0.14,2018,24,Europe
+Montenegro,montenegro,0.12,2018,25,Europe
+Eswatini,eswatini,0.1,2018,26,Africa
+Canada,canada,0.08,2018,27,North America
+Philippines,philippines,0.07,2018,28,East Asia/Southeast Asia
+Pakistan,pakistan,0.06,2018,29,South Asia
+Uzbekistan,uzbekistan,0.06,2018,30,Central Asia
+Turkey,turkey,0.05,2018,31,Middle East
+Greece,greece,0.04,2018,32,Europe
+Zambia,zambia,0.04,2018,33,Africa
+Albania,albania,0.03,2018,34,Europe
+Malawi,malawi,0.03,2018,35,Africa
+Mexico,mexico,0.03,2018,36,North America
+New-Zealand,new-zealand,0.03,2018,37,Australia - Oceania
+Niger,niger,0.03,2018,38,Africa
+Romania,romania,0.03,2018,39,Europe
+Slovenia,slovenia,0.03,2018,40,Europe
+Thailand,thailand,0.03,2018,41,East Asia/Southeast Asia
+Bangladesh,bangladesh,0.02,2018,42,South Asia
+Germany,germany,0.02,2018,43,Europe
+Malaysia,malaysia,0.02,2018,44,East Asia/Southeast Asia
+Tanzania,tanzania,0.02,2018,45,Africa
+Brazil,brazil,0.01,2018,46,South America
+Burma,burma,0.01,2018,47,East Asia/Southeast Asia
+Chile,chile,0.01,2018,48,South America
+Georgia,georgia,0.01,2018,49,Middle East
+Hungary,hungary,0.01,2018,50,Europe
+Iran,iran,0.01,2017,51,Middle East
+Slovakia,slovakia,0.01,2018,52,Europe
+Algeria,algeria,0,2018,53,Africa
+American-Samoa,american-samoa,0,2018,54,Australia - Oceania
+Angola,angola,0,2018,55,Africa
+Antigua-and-Barbuda,antigua-and-barbuda,0,2018,56,Central America
+Argentina,argentina,0,2018,57,South America
+Armenia,armenia,0,2018,58,Middle East
+Austria,austria,0,2018,59,Europe
+Azerbaijan,azerbaijan,0,2018,60,Middle East
+Bahamas-The,bahamas-the,0,2018,61,Central America
+Bahrain,bahrain,0,2018,62,Middle East
+Barbados,barbados,0,2018,63,Central America
+Belarus,belarus,0,2018,64,Europe
+Belgium,belgium,0,2018,65,Europe
+Belize,belize,0,2018,66,Central America
+Benin,benin,0,2018,67,Africa
+Bhutan,bhutan,0,2018,68,South Asia
+Bolivia,bolivia,0,2018,69,South America
+Brunei,brunei,0,2018,70,East Asia/Southeast Asia
+Burkina-Faso,burkina-faso,0,2018,71,Africa
+Burundi,burundi,0,2018,72,Africa
+Cabo-Verde,cabo-verde,0,2018,73,Africa
+Cambodia,cambodia,0,2018,74,East Asia/Southeast Asia
+Cameroon,cameroon,0,2018,75,Africa
+Cayman-Islands,cayman-islands,0,2018,76,Central America
+Central-African-Republic,central-african-republic,0,2018,77,Africa
+Chad,chad,0,2018,78,Africa
+Comoros,comoros,0,2018,79,Africa
+Congo-Democratic-Republic-of-the,congo-democratic-republic-of-the,0,2018,80,Africa
+Congo-Republic-of-the,congo-republic-of-the,0,2018,81,Africa
+Costa-Rica,costa-rica,0,2018,82,Central America
+Cote-d'Ivoire,cote-divoire,0,2018,83,Africa
+Croatia,croatia,0,2018,84,Europe
+Cuba,cuba,0,2018,85,Central America
+Curacao,curacao,0,2018,86,Central America
+Cyprus,cyprus,0,2018,87,Europe
+Denmark,denmark,0,2018,88,Europe
+Djibouti,djibouti,0,2018,89,Africa
+Dominica,dominica,0,2018,90,Central America
+Dominican-Republic,dominican-republic,0,2018,91,Central America
+Ecuador,ecuador,0,2018,92,South America
+El-Salvador,el-salvador,0,2018,93,Central America
+Equatorial-Guinea,equatorial-guinea,0,2018,94,Africa
+Estonia,estonia,0,2018,95,Europe
+Ethiopia,ethiopia,0,2018,96,Africa
+Fiji,fiji,0,2018,97,Australia - Oceania
+Finland,finland,0,2018,98,Europe
+France,france,0,2018,99,Europe
+Gabon,gabon,0,2018,100,Africa
+Gambia-The,gambia-the,0,2018,101,Africa
+Ghana,ghana,0,2018,102,Africa
+Greenland,greenland,0,2018,103,North America
+Grenada,grenada,0,2018,104,Central America
+Guam,guam,0,2018,105,Australia - Oceania
+Guatemala,guatemala,0,2018,106,Central America
+Guinea,guinea,0,2018,107,Africa
+Guinea-Bissau,guinea-bissau,0,2018,108,Africa
+Guyana,guyana,0,2018,109,South America
+Haiti,haiti,0,2018,110,Central America
+Honduras,honduras,0,2018,111,Central America
+Hong-Kong,hong-kong,0,2018,112,East Asia/Southeast Asia
+Iceland,iceland,0,2018,113,Europe
+Iraq,iraq,0,2018,114,Middle East
+Ireland,ireland,0,2018,115,Europe
+Israel,israel,0,2018,116,Middle East
+Italy,italy,0,2018,117,Europe
+Jamaica,jamaica,0,2018,118,Central America
+Japan,japan,0,2018,119,East Asia/Southeast Asia
+Jordan,jordan,0,2018,120,Middle East
+Kenya,kenya,0,2018,121,Africa
+Kiribati,kiribati,0,2018,122,Australia - Oceania
+Korea-South,korea-south,0,2018,123,East Asia/Southeast Asia
+Kuwait,kuwait,0,2018,124,Middle East
+Latvia,latvia,0,2018,125,Europe
+Lebanon,lebanon,0,2018,126,Middle East
+Lesotho,lesotho,0,2018,127,Africa
+Liberia,liberia,0,2018,128,Africa
+Libya,libya,0,2018,129,Africa
+Lithuania,lithuania,0,2018,130,Europe
+Luxembourg,luxembourg,0,2018,131,Europe
+Macau,macau,0,2018,132,East Asia/Southeast Asia
+Madagascar,madagascar,0,2018,133,Africa
+Maldives,maldives,0,2018,134,South Asia
+Mali,mali,0,2018,135,Africa
+Malta,malta,0,2018,136,Europe
+Mauritania,mauritania,0,2018,137,Africa
+Mauritius,mauritius,0,2018,138,Africa
+Moldova,moldova,0,2018,139,Europe
+Morocco,morocco,0,2018,140,Africa
+Namibia,namibia,0,2018,141,Africa
+Nepal,nepal,0,2018,142,South Asia
+Netherlands,netherlands,0,2018,143,Europe
+Nicaragua,nicaragua,0,2018,144,Central America
+Nigeria,nigeria,0,2018,145,Africa
+North-Macedonia,north-macedonia,0,2018,146,Europe
+Norway,norway,0,2018,147,Europe
+Oman,oman,0,2018,148,Middle East
+Panama,panama,0,2018,149,Central America
+Papua-New-Guinea,papua-new-guinea,0,2018,150,East Asia/Southeast Asia
+Paraguay,paraguay,0,2018,151,South America
+Peru,peru,0,2018,152,South America
+Portugal,portugal,0,2018,153,Europe
+Puerto-Rico,puerto-rico,0,2018,154,Central America
+Qatar,qatar,0,2018,155,Middle East
+Rwanda,rwanda,0,2018,156,Africa
+Saint-Kitts-and-Nevis,saint-kitts-and-nevis,0,2018,157,Central America
+Saint-Lucia,saint-lucia,0,2018,158,Central America
+Saint-Vincent-and-the-Grenadines,saint-vincent-and-the-grenadines,0,2018,159,Central America
+Samoa,samoa,0,2018,160,Australia - Oceania
+Sao-Tome-and-Principe,sao-tome-and-principe,0,2018,161,Africa
+Saudi-Arabia,saudi-arabia,0,2018,162,Middle East
+Senegal,senegal,0,2018,163,Africa
+Seychelles,seychelles,0,2018,164,Africa
+Sierra-Leone,sierra-leone,0,2018,165,Africa
+Singapore,singapore,0,2018,166,East Asia/Southeast Asia
+Solomon-Islands,solomon-islands,0,2018,167,Australia - Oceania
+Spain,spain,0,2018,168,Europe
+Sri-Lanka,sri-lanka,0,2018,169,South Asia
+Sudan,sudan,0,2018,170,Africa
+Suriname,suriname,0,2018,171,South America
+Sweden,sweden,0,2018,172,Europe
+Switzerland,switzerland,0,2018,173,Europe
+Timor-Leste,timor-leste,0,2018,174,East Asia/Southeast Asia
+Togo,togo,0,2018,175,Africa
+Tonga,tonga,0,2018,176,Australia - Oceania
+Trinidad-and-Tobago,trinidad-and-tobago,0,2018,177,Central America
+Tunisia,tunisia,0,2018,178,Africa
+Turkmenistan,turkmenistan,0,2018,179,Central Asia
+Turks-and-Caicos-Islands,turks-and-caicos-islands,0,2018,180,Central America
+Uganda,uganda,0,2018,181,Africa
+United-Arab-Emirates,united-arab-emirates,0,2018,182,Middle East
+United-Kingdom,united-kingdom,0,2018,183,Europe
+Uruguay,uruguay,0,2018,184,South America
+Vanuatu,vanuatu,0,2018,185,Australia - Oceania
+Yemen,yemen,0,2018,186,Middle East

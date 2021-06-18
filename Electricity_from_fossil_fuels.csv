@@ -1,0 +1,214 @@
+name,slug,value_precent,date_of_information,ranking,region
+Bahamas-The,bahamas-the,100,2016,1,Central America
+Bahrain,bahrain,100,2016,2,Middle East
+Bermuda,bermuda,100,2016,3,North America
+Botswana,botswana,100,2016,4,Africa
+Brunei,brunei,100,2016,5,East Asia/Southeast Asia
+Cayman-Islands,cayman-islands,100,2016,6,Central America
+Djibouti,djibouti,100,2016,7,Africa
+Gibraltar,gibraltar,100,2016,8,Europe
+Hong-Kong,hong-kong,100,2016,9,East Asia/Southeast Asia
+Kuwait,kuwait,100,2016,10,Middle East
+Libya,libya,100,2016,11,Africa
+Macau,macau,100,2016,12,East Asia/Southeast Asia
+Montserrat,montserrat,100,2016,13,Central America
+Oman,oman,100,2016,14,Middle East
+Qatar,qatar,100,2016,15,Middle East
+Saint-Helena-Ascension-and-Tristan-da-Cunha,saint-helena-ascension-and-tristan-da-cunha,100,2016,16,Africa
+Saudi-Arabia,saudi-arabia,100,2016,17,Middle East
+South-Sudan,south-sudan,100,2016,18,Africa
+Timor-Leste,timor-leste,100,2018,19,East Asia/Southeast Asia
+Trinidad-and-Tobago,trinidad-and-tobago,100,2016,20,Central America
+Turkmenistan,turkmenistan,100,2016,21,Central Asia
+Turks-and-Caicos-Islands,turks-and-caicos-islands,100,2016,22,Central America
+Eritrea,eritrea,99,2016,23,Africa
+Guinea-Bissau,guinea-bissau,99,2016,24,Africa
+Saint-Lucia,saint-lucia,99,2016,25,Central America
+United-Arab-Emirates,united-arab-emirates,99,2016,26,Middle East
+American-Samoa,american-samoa,98,2016,27,Australia - Oceania
+Chad,chad,98,2016,28,Africa
+Singapore,singapore,98,2016,29,East Asia/Southeast Asia
+Virgin-Islands,virgin-islands,98,2016,30,Central America
+Antigua-and-Barbuda,antigua-and-barbuda,97,2016,31,Central America
+Bangladesh,bangladesh,97,2016,32,South Asia
+British-Virgin-Islands,british-virgin-islands,97,2016,33,Central America
+Gambia-The,gambia-the,97,2016,34,Africa
+Kosovo,kosovo,97,2016,35,Europe
+Algeria,algeria,96,2016,36,Africa
+Belarus,belarus,96,2016,37,Europe
+Comoros,comoros,96,2016,38,Africa
+Grenada,grenada,96,2016,39,Central America
+Maldives,maldives,96,2016,40,South Asia
+Micronesia-Federated-States-of,micronesia-federated-states-of,96,2015,41,Australia - Oceania
+Saint-Pierre-and-Miquelon,saint-pierre-and-miquelon,96,2016,42,North America
+Tuvalu,tuvalu,96,2015,43,Australia - Oceania
+Israel,israel,95,2016,44,Middle East
+Niger,niger,95,2016,45,Africa
+Guam,guam,94,2016,46,Australia - Oceania
+Puerto-Rico,puerto-rico,94,2016,47,Central America
+Saint-Kitts-and-Nevis,saint-kitts-and-nevis,94,2016,48,Central America
+Tunisia,tunisia,94,2016,49,Africa
+Barbados,barbados,93,2016,50,Central America
+Somalia,somalia,93,2016,51,Africa
+Solomon-Islands,solomon-islands,92,2016,52,Australia - Oceania
+Cuba,cuba,91,2016,53,Central America
+Egypt,egypt,91,2016,54,Africa
+Iraq,iraq,91,2016,55,Middle East
+Seychelles,seychelles,91,2016,56,Africa
+Guyana,guyana,89,2016,57,South America
+Benin,benin,88,2016,58,Africa
+Lebanon,lebanon,88,2016,59,Middle East
+Sao-Tome-and-Principe,sao-tome-and-principe,88,2016,60,Africa
+Aruba,aruba,87,2016,61,Central America
+Jordan,jordan,87,2016,62,Middle East
+Mongolia,mongolia,87,2016,63,East Asia/Southeast Asia
+New-Caledonia,new-caledonia,87,2016,64,Australia - Oceania
+Niue,niue,87,2016,65,Australia - Oceania
+Kazakhstan,kazakhstan,86,2016,66,Central Asia
+Moldova,moldova,86,2016,67,Europe
+Nauru,nauru,86,2016,68,Australia - Oceania
+Uzbekistan,uzbekistan,86,2016,69,Central Asia
+Cyprus,cyprus,85,2016,70,Europe
+Indonesia,indonesia,85,2016,71,East Asia/Southeast Asia
+Saint-Vincent-and-the-Grenadines,saint-vincent-and-the-grenadines,85,2016,72,Central America
+South-Africa,south-africa,85,2016,73,Africa
+Azerbaijan,azerbaijan,84,2016,74,Middle East
+Iran,iran,84,2016,75,Middle East
+Jamaica,jamaica,83,2016,76,Central America
+Syria,syria,83,2016,77,Middle East
+Haiti,haiti,82,2016,78,Central America
+Senegal,senegal,82,2016,79,Africa
+Malta,malta,81,2016,80,Europe
+Marshall-Islands,marshall-islands,81,2016,81,Australia - Oceania
+Burkina-Faso,burkina-faso,80,2016,82,Africa
+Nigeria,nigeria,80,2016,83,Africa
+Cabo-Verde,cabo-verde,79,2016,84,Africa
+Cook-Islands,cook-islands,79,2016,85,Australia - Oceania
+Mauritius,mauritius,79,2016,86,Africa
+Poland,poland,79,2016,87,Europe
+Taiwan,taiwan,79,2016,88,East Asia/Southeast Asia
+Yemen,yemen,79,2016,89,Middle East
+Malaysia,malaysia,78,2016,90,East Asia/Southeast Asia
+West-Bank,west-bank,78,2016,91,Middle East
+Dominican-Republic,dominican-republic,77,2016,92,Central America
+Bolivia,bolivia,76,2016,93,South America
+Thailand,thailand,76,2016,94,East Asia/Southeast Asia
+Netherlands,netherlands,75,2016,95,Europe
+Falkland-Islands-(Islas-Malvinas),falkland-islands-islas-malvinas,74,2016,96,South America
+Madagascar,madagascar,74,2016,97,Africa
+Tonga,tonga,74,2016,98,Australia - Oceania
+Kiribati,kiribati,73,2016,99,Australia - Oceania
+Lithuania,lithuania,73,2016,100,Europe
+Australia,australia,72,2016,101,Australia - Oceania
+Dominica,dominica,72,2016,102,Central America
+Estonia,estonia,72,2016,103,Europe
+India,india,71,2016,104,South Asia
+Japan,japan,71,2016,105,East Asia/Southeast Asia
+Mexico,mexico,71,2016,106,North America
+Vanuatu,vanuatu,71,2016,107,Australia - Oceania
+French-Polynesia,french-polynesia,70,2016,108,Australia - Oceania
+Korea-South,korea-south,70,2016,109,East Asia/Southeast Asia
+Togo,togo,70,2016,110,Africa
+United-States,united-states,70,2016,111,North America
+Argentina,argentina,69,2016,112,South America
+Mali,mali,68,2016,113,Africa
+Morocco,morocco,68,2016,114,Africa
+Russia,russia,68,2016,115,Central Asia
+Philippines,philippines,67,2016,116,East Asia/Southeast Asia
+Ireland,ireland,65,2016,117,Europe
+Mauritania,mauritania,65,2016,118,Africa
+Serbia,serbia,65,2016,119,Europe
+Ukraine,ukraine,65,2016,120,Europe
+Congo-Republic-of-the,congo-republic-of-the,64,2016,121,Africa
+Hungary,hungary,64,2016,122,Europe
+Papua-New-Guinea,papua-new-guinea,63,2016,123,East Asia/Southeast Asia
+China,china,62,2016,124,East Asia/Southeast Asia
+Pakistan,pakistan,62,2016,125,South Asia
+Andorra,andorra,61,2010,126,Europe
+Equatorial-Guinea,equatorial-guinea,61,2016,127,Africa
+Peru,peru,61,2016,128,South America
+Suriname,suriname,61,2016,129,South America
+Cote-d'Ivoire,cote-divoire,60,2016,130,Africa
+Czechia,czechia,60,2016,131,Europe
+Chile,chile,59,2016,133,South America
+Armenia,armenia,58,2016,134,Middle East
+Ghana,ghana,58,2016,135,Africa
+Zimbabwe,zimbabwe,58,2016,136,Africa
+Greece,greece,57,2016,137,Europe
+Liberia,liberia,57,2016,138,Africa
+Nicaragua,nicaragua,56,2016,139,Central America
+Vietnam,vietnam,56,2016,140,East Asia/Southeast Asia
+Tanzania,tanzania,55,2016,141,Africa
+Faroe-Islands,faroe-islands,54,2016,142,Europe
+Italy,italy,54,2016,143,Europe
+Turkey,turkey,53,2016,144,Middle East
+Cameroon,cameroon,52,2016,145,Africa
+Sri-Lanka,sri-lanka,52,2016,146,South Asia
+Belize,belize,51,2016,147,Central America
+Gabon,gabon,51,2016,148,Africa
+Greenland,greenland,51,2016,149,North America
+Venezuela,venezuela,51,2016,150,South America
+Central-African-Republic,central-african-republic,50,2016,151,Africa
+United-Kingdom,united-kingdom,50,2016,152,Europe
+Bosnia-and-Herzegovina,bosnia-and-herzegovina,49,2016,153,Europe
+El-Salvador,el-salvador,49,2016,154,Central America
+Samoa,samoa,48,2016,155,Australia - Oceania
+Romania,romania,47,2016,156,Europe
+Spain,spain,47,2016,157,Europe
+Denmark,denmark,46,2016,158,Europe
+Afghanistan,afghanistan,45,2016,159,South Asia
+Croatia,croatia,45,2016,160,Europe
+Korea-North,korea-north,45,2016,161,East Asia/Southeast Asia
+Sudan,sudan,44,2016,162,Africa
+Ecuador,ecuador,43,2016,163,South America
+Rwanda,rwanda,42,2016,164,Africa
+Finland,finland,41,2016,165,Europe
+Germany,germany,41,2016,166,Europe
+Guatemala,guatemala,41,2016,167,Central America
+Portugal,portugal,41,2016,168,Europe
+Honduras,honduras,40,2016,169,Central America
+Bulgaria,bulgaria,39,2016,170,Europe
+Burma,burma,39,2016,171,East Asia/Southeast Asia
+Eswatini,eswatini,39,2016,172,Africa
+Latvia,latvia,39,2016,173,Europe
+Slovenia,slovenia,37,2016,174,Europe
+Panama,panama,36,2016,175,Central America
+Slovakia,slovakia,36,2016,176,Europe
+Belgium,belgium,35,2016,177,Europe
+Cambodia,cambodia,35,2016,178,East Asia/Southeast Asia
+Georgia,georgia,35,2016,179,Middle East
+Angola,angola,34,2016,180,Africa
+Fiji,fiji,34,2016,181,Australia - Oceania
+Guinea,guinea,33,2016,182,Africa
+Kenya,kenya,33,2016,183,Africa
+Colombia,colombia,29,2016,184,South America
+Uruguay,uruguay,29,2016,185,South America
+Laos,laos,28,2016,186,East Asia/Southeast Asia
+Namibia,namibia,28,2016,187,Africa
+Austria,austria,25,2016,188,Europe
+Luxembourg,luxembourg,25,2016,189,Europe
+Kyrgyzstan,kyrgyzstan,24,2016,190,Central Asia
+Canada,canada,23,2016,191,North America
+Montenegro,montenegro,23,2016,192,Europe
+New-Zealand,new-zealand,23,2016,193,Australia - Oceania
+Sierra-Leone,sierra-leone,23,2016,194,Africa
+Uganda,uganda,19,2016,195,Africa
+Costa-Rica,costa-rica,18,2016,196,Central America
+Brazil,brazil,17,2016,197,South America
+France,france,17,2016,198,Europe
+Mozambique,mozambique,16,2016,199,Africa
+Burundi,burundi,14,2016,200,Africa
+Tajikistan,tajikistan,6,2016,201,Central Asia
+Albania,albania,5,2016,202,Europe
+Nepal,nepal,5,2016,203,South Asia
+Sweden,sweden,5,2016,204,Europe
+Zambia,zambia,5,2016,205,Africa
+Iceland,iceland,4,2016,206,Europe
+Ethiopia,ethiopia,3,2016,207,Africa
+Norway,norway,3,2016,208,Europe
+Switzerland,switzerland,3,2016,209,Europe
+Congo-Democratic-Republic-of-the,congo-democratic-republic-of-the,2,2016,210,Africa
+Bhutan,bhutan,1,2016,211,South Asia
+Malawi,malawi,1,2016,212,Africa
+Lesotho,lesotho,0,2016,213,Africa
+Paraguay,paraguay,0,2016,214,South America

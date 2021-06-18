@@ -13,7 +13,11 @@ Labor_force = read.csv("Labor_force.csv")
 Revenue_from_coal = read.csv("Revenue_from_coal.csv")
 Revenue_from_forest_resources = read.csv("Revenue_from_forest_resources.csv")
 Unemployment_rate = read.csv("Unemployment_rate.csv")
-World_data = read.csv("World_data.csv")
+World = read.csv("World.csv")
+High = read.csv("High_income.csv")
+Low = read.csv("Low_income.csv")
+Middle = read.csv("Middle_income.csv")
+
 
 ## change data to tibble
 Budget = as.tibble(Budget)
@@ -27,44 +31,24 @@ Labor_force = as.tibble(Labor_force)
 Revenue_from_coal = as.tibble(Revenue_from_coal)
 Revenue_from_forest_resources = as.tibble(Revenue_from_forest_resources)
 Unemployment_rate = as.tibble(Unemployment_rate)
-World_data = as.tibble(World_data)
+World = as.tibble(World)
+High = as.tibble(High)
+Low = as.tibble(Low)
+Middle = as.tibble(Middle)
 
-## Fixing World_data name
-World_data = World_data%>%
+## Fixing World name
+World = World%>%
 rename(Country_Name = ן..Country_Name)
 
-## try
-World_data%>%
-  group_by(Country_Name, Year)%>%
-  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  filter(Country_Name == "Israel" | Country_Name == "Brazil" | Country_Name == "Thailand" | Country_Name == "China"| Country_Name == "United-States", Year == 2016)%>%
-  ggplot(mapping = aes(x = Gini_index_World_Bank_estimate, y = EPI_new, colour = Country_Name))+ labs(x = "Gini Index", y = "EPI score", title = "Gini Vs EPI - 2016") + geom_point(size = 5)
+## Fixing High name
+High = High%>%
+  rename(Country_Name = ן..Country_Name)
 
+## Fixing Low name
+Low = Low%>%
+  rename(Country_Name = ן..Country_Name)
 
-## try 2
-World_data%>%
-  group_by(Country_Name, Year)%>%
-  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  filter(Country_Name == "Israel" | Country_Name == "Brazil" | Country_Name == "Thailand" | Country_Name == "China"| Country_Name == "United-States", Year == 2016)%>%
-  ggplot(mapping = aes(x = CO2_emissions_metric_tons_per_capita, y = EPI_new, colour = Country_Name))+ labs(x = "CO2 - metric ton per capita", y = "EPI score", title = "CO2 Vs EPI - 2016") + geom_point(size = 5)
+## Fixing Middle name
+Middle = Middle%>%
+  rename(Country_Name = ן..Country_Name)
 
-## try 3
-World_data%>%
-  group_by(Country_Name)%>%
-  filter(Country_Name == "Low-income" | Country_Name == "Middle-income"|Country_Name == "High-income" )%>%
-  ggplot(mapping = aes(x = Year , y = Agricultural_land_precent_of_land_area, colour = Country_Name))+ labs(x = "Year", y = "Agricultural land % of land area", title = "Agricultural land precent") + geom_smooth(se = FALSE)
-
-## try 4
-EPI_2020%>%
-  select(country, EPI_new)%>%
-  full_join(Unemployment_rate, by = c("country"="name"))%>%
-  ggplot(mapping = aes(x=value_precent, y=EPI_new)) + labs(x="Unemployment rate %", y = "EPI score", title = "EPI Vs Unemployment") + geom_point() + geom_abline(color = "red")
-
-
-## Try 5
-what=EPI_2020%>%
-  select(country, EPI_new)%>%
-  full_join(Unemployment_rate, by = c("country"="name"))
-
-summary(lm(what$EPI_new~what$value_precent)) 
-  

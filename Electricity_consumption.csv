@@ -1,0 +1,218 @@
+name,slug,value_kWh,date_of_information,ranking,region
+China,china,"5,564,000,000,000",2016,1,East Asia/Southeast Asia
+United-States,united-states,"3,902,000,000,000",2016,2,North America
+India,india,"1,137,000,000,000",2016,3,South Asia
+Japan,japan,"943,700,000,000",2016,4,East Asia/Southeast Asia
+Russia,russia,"909,600,000,000",2016,5,Central Asia
+Germany,germany,"536,500,000,000",2016,6,Europe
+Canada,canada,"522,200,000,000",2016,7,North America
+Brazil,brazil,"509,100,000,000",2016,8,South America
+Korea-South,korea-south,"507,600,000,000",2016,9,East Asia/Southeast Asia
+France,france,"450,800,000,000",2016,10,Europe
+United-Kingdom,united-kingdom,"309,200,000,000",2016,11,Europe
+Saudi-Arabia,saudi-arabia,"296,200,000,000",2016,12,Middle East
+Italy,italy,"293,500,000,000",2016,13,Europe
+Mexico,mexico,"258,700,000,000",2016,14,North America
+Spain,spain,"239,500,000,000",2016,15,Europe
+Taiwan,taiwan,"237,400,000,000",2016,16,East Asia/Southeast Asia
+Iran,iran,"236,300,000,000",2016,17,Middle East
+Turkey,turkey,"231,100,000,000",2016,18,Middle East
+Australia,australia,"229,400,000,000",2016,19,Australia - Oceania
+Indonesia,indonesia,"213,400,000,000",2016,20,East Asia/Southeast Asia
+South-Africa,south-africa,"207,100,000,000",2016,21,Africa
+Thailand,thailand,"187,700,000,000",2016,22,East Asia/Southeast Asia
+Egypt,egypt,"159,700,000,000",2016,23,Africa
+Poland,poland,"149,400,000,000",2016,24,Europe
+Vietnam,vietnam,"143,200,000,000",2016,25,East Asia/Southeast Asia
+Malaysia,malaysia,"136,900,000,000",2016,26,East Asia/Southeast Asia
+Sweden,sweden,"133,500,000,000",2016,27,Europe
+Ukraine,ukraine,"133,200,000,000",2016,28,Europe
+Norway,norway,"122,200,000,000",2016,29,Europe
+Argentina,argentina,"121,000,000,000",2016,30,South America
+United-Arab-Emirates,united-arab-emirates,"113,200,000,000",2016,31,Middle East
+Netherlands,netherlands,"108,800,000,000",2016,32,Europe
+Kazakhstan,kazakhstan,"94,230,000,000",2016,33,Central Asia
+Pakistan,pakistan,"92,330,000,000",2016,34,South Asia
+Finland,finland,"82,790,000,000",2016,35,Europe
+Belgium,belgium,"82,160,000,000",2016,36,Europe
+Philippines,philippines,"78,300,000,000",2016,37,East Asia/Southeast Asia
+Chile,chile,"73,220,000,000",2016,38,South America
+Venezuela,venezuela,"71,960,000,000",2016,39,South America
+Colombia,colombia,"68,250,000,000",2016,40,South America
+Austria,austria,"64,600,000,000",2016,41,Europe
+Czechia,czechia,"62,340,000,000",2016,42,Europe
+Switzerland,switzerland,"58,460,000,000",2016,43,Europe
+Kuwait,kuwait,"57,780,000,000",2016,44,Middle East
+Greece,greece,"56,890,000,000",2016,45,Europe
+Algeria,algeria,"55,960,000,000",2016,46,Africa
+Israel,israel,"55,000,000,000",2016,47,Middle East
+Bangladesh,bangladesh,"53,650,000,000",2016,48,South Asia
+Romania,romania,"49,640,000,000",2016,49,Europe
+Uzbekistan,uzbekistan,"49,070,000,000",2016,50,Central Asia
+Singapore,singapore,"47,690,000,000",2016,51,East Asia/Southeast Asia
+Portugal,portugal,"46,940,000,000",2016,52,Europe
+Peru,peru,"44,610,000,000",2016,53,South America
+Hong-Kong,hong-kong,"41,840,000,000",2016,54,East Asia/Southeast Asia
+New-Zealand,new-zealand,"39,500,000,000",2016,55,Australia - Oceania
+Hungary,hungary,"39,370,000,000",2016,56,Europe
+Iraq,iraq,"38,460,000,000",2016,57,Middle East
+Qatar,qatar,"37,240,000,000",2016,58,Middle East
+Denmark,denmark,"33,020,000,000",2016,59,Europe
+Bulgaria,bulgaria,"32,340,000,000",2016,60,Europe
+Belarus,belarus,"31,720,000,000",2016,61,Europe
+Serbia,serbia,"29,810,000,000",2016,62,Europe
+Oman,oman,"28,920,000,000",2016,63,Middle East
+Morocco,morocco,"28,250,000,000",2016,64,Africa
+Libya,libya,"27,300,000,000",2016,65,Africa
+Slovakia,slovakia,"26,640,000,000",2016,66,Europe
+Bahrain,bahrain,"26,110,000,000",2016,67,Middle East
+Ireland,ireland,"25,680,000,000",2016,68,Europe
+Nigeria,nigeria,"24,720,000,000",2016,69,Africa
+Ecuador,ecuador,"22,680,000,000",2016,70,South America
+Azerbaijan,azerbaijan,"20,240,000,000",2016,71,Middle East
+Puerto-Rico,puerto-rico,"19,480,000,000",2016,72,Central America
+Iceland,iceland,"17,680,000,000",2016,73,Europe
+Jordan,jordan,"16,820,000,000",2016,74,Middle East
+Cuba,cuba,"16,160,000,000",2016,75,Central America
+Croatia,croatia,"15,930,000,000",2016,76,Europe
+Lebanon,lebanon,"15,710,000,000",2016,77,Middle East
+Dominican-Republic,dominican-republic,"15,640,000,000",2016,78,Central America
+Tunisia,tunisia,"15,270,000,000",2016,79,Africa
+Turkmenistan,turkmenistan,"15,090,000,000",2016,80,Central Asia
+Burma,burma,"14,930,000,000",2016,81,East Asia/Southeast Asia
+Syria,syria,"14,160,000,000",2016,82,Middle East
+Korea-North,korea-north,"13,890,000,000",2016,83,East Asia/Southeast Asia
+Slovenia,slovenia,"13,400,000,000",2016,84,Europe
+Tajikistan,tajikistan,"12,960,000,000",2016,85,Central Asia
+Sri-Lanka,sri-lanka,"12,670,000,000",2016,86,South Asia
+Georgia,georgia,"12,370,000,000",2016,87,Middle East
+Sudan,sudan,"12,120,000,000",2016,88,Africa
+Bosnia-and-Herzegovina,bosnia-and-herzegovina,"11,870,000,000",2016,89,Europe
+Mozambique,mozambique,"11,570,000,000",2016,90,Africa
+Zambia,zambia,"11,040,000,000",2016,91,Africa
+Paraguay,paraguay,"10,900,000,000",2016,92,South America
+Uruguay,uruguay,"10,770,000,000",2016,93,South America
+Kyrgyzstan,kyrgyzstan,"10,520,000,000",2016,94,Central Asia
+Lithuania,lithuania,"10,500,000,000",2016,95,Europe
+Guatemala,guatemala,"10,100,000,000",2016,96,Central America
+Trinidad-and-Tobago,trinidad-and-tobago,"9,867,000,000",2016,97,Central America
+Costa-Rica,costa-rica,"9,812,000,000",2016,98,Central America
+Ghana,ghana,"9,363,000,000",2016,99,Africa
+Ethiopia,ethiopia,"9,062,000,000",2016,100,Africa
+Angola,angola,"9,036,000,000",2016,101,Africa
+Estonia,estonia,"8,795,000,000",2016,102,Europe
+Panama,panama,"8,708,000,000",2016,103,Central America
+Kenya,kenya,"7,863,000,000",2016,104,Africa
+Bolivia,bolivia,"7,785,000,000",2016,105,South America
+Congo-Democratic-Republic-of-the,congo-democratic-republic-of-the,"7,430,000,000",2016,106,Africa
+Honduras,honduras,"7,220,000,000",2016,107,Central America
+Zimbabwe,zimbabwe,"7,118,000,000",2016,108,Africa
+Latvia,latvia,"6,798,000,000",2016,109,Europe
+West-Bank,west-bank,"6,489,000,000",2016,110,Middle East
+Luxembourg,luxembourg,"6,475,000,000",2016,111,Europe
+Cameroon,cameroon,"6,411,000,000",2016,113,Africa
+Cote-d'Ivoire,cote-divoire,"6,245,000,000",2016,114,Africa
+Mongolia,mongolia,"5,932,000,000",2016,115,East Asia/Southeast Asia
+El-Salvador,el-salvador,"5,928,000,000",2016,116,Central America
+Cambodia,cambodia,"5,857,000,000",2016,117,East Asia/Southeast Asia
+Tanzania,tanzania,"5,682,000,000",2016,118,Africa
+Afghanistan,afghanistan,"5,526,000,000",2016,119,South Asia
+Laos,laos,"5,471,000,000",2016,120,East Asia/Southeast Asia
+Armenia,armenia,"5,291,000,000",2016,121,Middle East
+Albania,albania,"5,110,000,000",2016,122,Europe
+Macau,macau,"5,077,000,000",2016,123,East Asia/Southeast Asia
+Nepal,nepal,"4,983,000,000",2016,124,South Asia
+Moldova,moldova,"4,400,000,000",2016,125,Europe
+Cyprus,cyprus,"4,355,000,000",2016,126,Europe
+Kosovo,kosovo,"3,957,000,000",2016,127,Europe
+Namibia,namibia,"3,891,000,000",2016,128,Africa
+Brunei,brunei,"3,771,000,000",2016,129,East Asia/Southeast Asia
+Yemen,yemen,"3,681,000,000",2016,130,Middle East
+Botswana,botswana,"3,636,000,000",2016,131,Africa
+Nicaragua,nicaragua,"3,590,000,000",2016,132,Central America
+Senegal,senegal,"3,497,000,000",2016,133,Africa
+Papua-New-Guinea,papua-new-guinea,"3,237,000,000",2016,134,East Asia/Southeast Asia
+Uganda,uganda,"3,106,000,000",2016,135,Africa
+Mali,mali,"2,982,000,000",2016,136,Africa
+Jamaica,jamaica,"2,847,000,000",2016,137,Central America
+Montenegro,montenegro,"2,808,000,000",2016,138,Europe
+New-Caledonia,new-caledonia,"2,739,000,000",2016,139,Australia - Oceania
+Mauritius,mauritius,"2,726,000,000",2016,140,Africa
+Bhutan,bhutan,"2,184,000,000",2016,141,South Asia
+Malta,malta,"2,122,000,000",2016,142,Europe
+Gabon,gabon,"2,071,000,000",2016,143,Africa
+Suriname,suriname,"1,750,000,000",2016,144,South America
+Bahamas-The,bahamas-the,"1,654,000,000",2016,145,Central America
+Guam,guam,"1,601,000,000",2016,146,Australia - Oceania
+Madagascar,madagascar,"1,587,000,000",2016,147,Africa
+Burkina-Faso,burkina-faso,"1,551,000,000",2016,148,Africa
+Eswatini,eswatini,"1,431,000,000",2016,149,Africa
+Malawi,malawi,"1,321,000,000",2016,150,Africa
+Togo,togo,"1,261,000,000",2016,151,Africa
+Benin,benin,"1,143,000,000",2016,152,Africa
+Niger,niger,"1,065,000,000",2016,153,Africa
+Mauritania,mauritania,"1,059,000,000",2016,154,Africa
+Barbados,barbados,"990,000,000",2016,155,Central America
+Curacao,curacao,"968,000,000",2008,156,Central America
+Congo-Republic-of-the,congo-republic-of-the,"912,000,000",2016,157,Africa
+Aruba,aruba,"873,300,000",2016,158,Central America
+Fiji,fiji,"850,000,000",2016,159,Australia - Oceania
+Lesotho,lesotho,"847,300,000",2016,160,Africa
+Guyana,guyana,"790,100,000",2016,161,South America
+Virgin-Islands,virgin-islands,"654,700,000",2016,162,Central America
+Jersey,jersey,"630,100,000",2004,163,Europe
+French-Polynesia,french-polynesia,"629,900,000",2016,164,Australia - Oceania
+Cayman-Islands,cayman-islands,"612,000,000",2016,165,Central America
+Bermuda,bermuda,"604,500,000",2016,166,North America
+Marshall-Islands,marshall-islands,"604,500,000",2016,167,Australia - Oceania
+Guinea,guinea,"556,100,000",2016,168,Africa
+Rwanda,rwanda,"527,300,000",2016,169,Africa
+Greenland,greenland,"468,000,000",2016,170,North America
+Equatorial-Guinea,equatorial-guinea,"465,000,000",2016,171,Africa
+Belize,belize,"453,000,000",2016,172,Central America
+Haiti,haiti,"406,200,000",2016,173,Central America
+Liechtenstein,liechtenstein,"393,600,000",2015,174,Europe
+South-Sudan,south-sudan,"391,800,000",2016,175,Africa
+Burundi,burundi,"382,700,000",2016,176,Africa
+Djibouti,djibouti,"377,100,000",2016,177,Africa
+Maldives,maldives,"373,900,000",2016,178,South Asia
+Cabo-Verde,cabo-verde,"367,400,000",2016,179,Africa
+Eritrea,eritrea,"353,900,000",2016,180,Africa
+Saint-Lucia,saint-lucia,"343,200,000",2016,181,Central America
+Seychelles,seychelles,"325,500,000",2016,182,Africa
+Somalia,somalia,"315,300,000",2016,183,Africa
+Antigua-and-Barbuda,antigua-and-barbuda,"307,800,000",2016,184,Central America
+Faroe-Islands,faroe-islands,"285,500,000",2016,185,Europe
+Gambia-The,gambia-the,"282,800,000",2016,186,Africa
+Liberia,liberia,"279,000,000",2016,187,Africa
+Sierra-Leone,sierra-leone,"279,000,000",2016,188,Africa
+Gibraltar,gibraltar,"230,800,000",2016,189,Europe
+Andorra,andorra,"221,600,000",2015,190,Europe
+Turks-and-Caicos-Islands,turks-and-caicos-islands,"218,600,000",2016,191,Central America
+Chad,chad,"208,600,000",2016,192,Africa
+Saint-Kitts-and-Nevis,saint-kitts-and-nevis,"193,400,000",2016,193,Central America
+Grenada,grenada,"185,100,000",2016,194,Central America
+Micronesia-Federated-States-of,micronesia-federated-states-of,"178,600,000",2002,195,Australia - Oceania
+Central-African-Republic,central-african-republic,"159,400,000",2016,196,Africa
+American-Samoa,american-samoa,"157,200,000",2016,197,Australia - Oceania
+Saint-Vincent-and-the-Grenadines,saint-vincent-and-the-grenadines,"146,000,000",2016,198,Central America
+Samoa,samoa,"122,800,000",2016,199,Australia - Oceania
+British-Virgin-Islands,british-virgin-islands,"117,500,000",2016,200,Central America
+Dominica,dominica,"103,600,000",2016,201,Central America
+Solomon-Islands,solomon-islands,"95,790,000",2016,202,Australia - Oceania
+Sao-Tome-and-Principe,sao-tome-and-principe,"61,380,000",2016,203,Africa
+Vanuatu,vanuatu,"58,590,000",2016,204,Australia - Oceania
+Tonga,tonga,"48,360,000",2016,205,Australia - Oceania
+Saint-Pierre-and-Miquelon,saint-pierre-and-miquelon,"42,780,000",2016,206,North America
+Comoros,comoros,"39,060,000",2016,207,Africa
+Guinea-Bissau,guinea-bissau,"36,270,000",2016,208,Africa
+Cook-Islands,cook-islands,"31,620,000",2016,209,Australia - Oceania
+Kiribati,kiribati,"26,970,000",2016,210,Australia - Oceania
+Montserrat,montserrat,"22,320,000",2016,211,Central America
+Nauru,nauru,"22,320,000",2016,212,Australia - Oceania
+Falkland-Islands-(Islas-Malvinas),falkland-islands-islas-malvinas,"17,670,000",2016,213,South America
+Saint-Helena-Ascension-and-Tristan-da-Cunha,saint-helena-ascension-and-tristan-da-cunha,"6,510,000",2016,214,Africa
+Niue,niue,"2,790,000",2016,215,Australia - Oceania
+Gaza-Strip,gaza-strip,"202,000",2009,216,Middle East
+Northern-Mariana-Islands,northern-mariana-islands,"48,300",2009,217,Australia - Oceania
+Timor-Leste,timor-leste,0,2016,218,East Asia/Southeast Asia

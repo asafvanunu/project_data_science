@@ -1,0 +1,231 @@
+name,slug,value_num_people,date_of_information,ranking,region
+China,china,"774,710,000",2019,1,East Asia/Southeast Asia
+India,india,"521,900,000",2017,2,South Asia
+United-States,united-states,"146,128,000",2020,3,North America
+Indonesia,indonesia,"129,366,000",2019,4,East Asia/Southeast Asia
+Brazil,brazil,"86,621,000",2020,5,South America
+Russia,russia,"69,923,000",2020,6,Central Asia
+Bangladesh,bangladesh,"66,640,000",2017,7,South Asia
+Japan,japan,"66,540,000",2020,8,East Asia/Southeast Asia
+Pakistan,pakistan,"61,710,000",2017,9,South Asia
+Nigeria,nigeria,"60,080,000",2017,10,Africa
+Vietnam,vietnam,"54,659,000",2019,11,East Asia/Southeast Asia
+Ethiopia,ethiopia,"52,820,000",2017,12,Africa
+Mexico,mexico,"50,914,000",2020,13,North America
+Germany,germany,"44,585,000",2020,14,Europe
+Philippines,philippines,"41,533,000",2020,15,East Asia/Southeast Asia
+Thailand,thailand,"37,546,000",2020,16,East Asia/Southeast Asia
+United-Kingdom,united-kingdom,"35,412,000",2020,17,Europe
+Iran,iran,"30,500,000",2017,18,Middle East
+France,france,"27,742,000",2020,19,Europe
+Korea-South,korea-south,"26,839,000",2020,20,East Asia/Southeast Asia
+Turkey,turkey,"25,677,000",2020,21,Middle East
+Tanzania,tanzania,"24,890,000",2017,22,Africa
+Egypt,egypt,"24,113,000",2020,23,Africa
+Italy,italy,"22,920,000",2020,24,Europe
+Burma,burma,"22,300,000",2017,25,East Asia/Southeast Asia
+Congo-Democratic-Republic-of-the,congo-democratic-republic-of-the,"20,692,000",2012,26,Africa
+Kenya,kenya,"19,600,000",2017,27,Africa
+Colombia,colombia,"19,309,000",2020,28,South America
+Spain,spain,"19,057,000",2020,29,Europe
+Canada,canada,"18,136,000",2020,30,North America
+Argentina,argentina,"18,000,000",2017,31,South America
+Nepal,nepal,"16,810,000",2017,32,South Asia
+Ukraine,ukraine,"16,033,000",2017,33,Europe
+Uganda,uganda,"15,840,000",2015,34,Africa
+Malaysia,malaysia,"15,139,000",2020,35,East Asia/Southeast Asia
+South-Africa,south-africa,"14,687,000",2020,36,Africa
+Venezuela,venezuela,"14,210,000",2017,37,South America
+Korea-North,korea-north,"14,000,000",2014,38,East Asia/Southeast Asia
+Saudi-Arabia,saudi-arabia,"13,800,000",2017,39,Middle East
+Madagascar,madagascar,"13,400,000",2017,40,Africa
+Uzbekistan,uzbekistan,"13,273,000",2018,41,Central Asia
+Mozambique,mozambique,"12,900,000",2017,42,Africa
+Australia,australia,"12,568,000",2020,43,Australia - Oceania
+Angola,angola,"12,510,000",2017,44,Africa
+Ghana,ghana,"12,490,000",2017,45,Africa
+Sudan,sudan,"11,920,000",2007,46,Africa
+Taiwan,taiwan,"11,498,000",2020,47,East Asia/Southeast Asia
+Algeria,algeria,"10,859,000",2017,48,Africa
+Morocco,morocco,"10,399,000",2020,49,Africa
+Cameroon,cameroon,"9,912,000",2017,50,Africa
+Poland,poland,"9,561,000",2020,51,Europe
+Cambodia,cambodia,"8,913,000",2017,52,East Asia/Southeast Asia
+Netherlands,netherlands,"8,907,000",2020,53,Europe
+Iraq,iraq,"8,900,000",2010,54,Middle East
+Cote-d'Ivoire,cote-divoire,"8,747,000",2017,55,Africa
+Kazakhstan,kazakhstan,"8,685,000",2020,56,Central Asia
+Burkina-Faso,burkina-faso,"8,501,000",2016,57,Africa
+Afghanistan,afghanistan,"8,478,000",2017,58,South Asia
+Ecuador,ecuador,"8,086,000",2017,59,South America
+Sri-Lanka,sri-lanka,"8,000,000",2020,60,South Asia
+Zimbabwe,zimbabwe,"7,907,000",2017,61,Africa
+Yemen,yemen,"7,425,000",2017,62,Middle East
+Chile,chile,"7,249,000",2020,63,South America
+Malawi,malawi,"7,000,000",2013,64,Africa
+Senegal,senegal,"6,966,000",2017,65,Africa
+Zambia,zambia,"6,898,000",2017,66,Africa
+Guatemala,guatemala,"6,664,000",2017,67,Central America
+Niger,niger,"6,500,000",2017,68,Africa
+Mali,mali,"6,447,000",2017,69,Africa
+Rwanda,rwanda,"6,227,000",2017,70,Africa
+Bolivia,bolivia,"5,719,000",2016,71,South America
+Chad,chad,"5,654,000",2017,72,Africa
+Guinea,guinea,"5,558,000",2017,73,Africa
+United-Arab-Emirates,united-arab-emirates,"5,344,000",2017,74,Middle East
+Czechia,czechia,"5,222,000",2020,75,Europe
+Switzerland,switzerland,"5,067,000",2020,76,Europe
+Sweden,sweden,"5,029,000",2020,77,Europe
+Burundi,burundi,"5,012,000",2017,78,Africa
+Azerbaijan,azerbaijan,"4,939,000",2019,79,Middle East
+Romania,romania,"4,889,000",2020,80,Europe
+Dominican-Republic,dominican-republic,"4,732,000",2017,81,Central America
+Portugal,portugal,"4,717,000",2020,82,Europe
+Cuba,cuba,"4,691,000",2017,83,Central America
+Haiti,haiti,"4,594,000",2014,84,Central America
+Hungary,hungary,"4,414,000",2020,85,Europe
+Belarus,belarus,"4,381,000",2016,86,Europe
+Somalia,somalia,"4,154,000",2016,87,Africa
+Belgium,belgium,"4,122,000",2020,88,Europe
+Tunisia,tunisia,"4,054,000",2017,89,Africa
+Greece,greece,"4,000,000",2020,90,Europe
+Israel,israel,"3,893,000",2020,91,Middle East
+Singapore,singapore,"3,778,000",2019,92,East Asia/Southeast Asia
+Syria,syria,"3,767,000",2017,93,Middle East
+Austria,austria,"3,739,000",2020,94,Europe
+Honduras,honduras,"3,735,000",2017,95,Central America
+Papua-New-Guinea,papua-new-guinea,"3,681,000",2017,96,East Asia/Southeast Asia
+Benin,benin,"3,662,000",2007,97,Africa
+Hong-Kong,hong-kong,"3,627,000",2020,98,East Asia/Southeast Asia
+Laos,laos,"3,582,000",2017,99,East Asia/Southeast Asia
+Paraguay,paraguay,"3,428,000",2017,100,South America
+Peru,peru,"3,421,000",2020,101,South America
+Bulgaria,bulgaria,"3,113,000",2020,102,Europe
+Nicaragua,nicaragua,"3,046,000",2017,103,Central America
+Serbia,serbia,"3,000,000",2020,104,Europe
+El-Salvador,el-salvador,"2,908,000",2019,105,Central America
+Kyrgyzstan,kyrgyzstan,"2,841,000",2017,106,Central Asia
+Denmark,denmark,"2,736,000",2020,107,Europe
+Eritrea,eritrea,"2,710,000",2017,108,Africa
+New-Zealand,new-zealand,"2,709,000",2020,109,Australia - Oceania
+Norway,norway,"2,699,000",2020,110,Europe
+Kuwait,kuwait,"2,695,000",2017,111,Middle East
+Togo,togo,"2,595,000",2007,112,Africa
+Finland,finland,"2,520,000",2020,113,Europe
+Slovakia,slovakia,"2,511,000",2020,114,Europe
+Turkmenistan,turkmenistan,"2,305,000",2013,115,Central Asia
+Tajikistan,tajikistan,"2,295,000",2016,116,Central Asia
+Ireland,ireland,"2,289,000",2020,117,Europe
+Oman,oman,"2,255,000",2016,118,Middle East
+Central-African-Republic,central-african-republic,"2,242,000",2017,119,Africa
+Lebanon,lebanon,"2,166,000",2016,120,Middle East
+Congo-Republic-of-the,congo-republic-of-the,"2,055,000",2016,121,Africa
+Qatar,qatar,"1,953,000",2017,122,Middle East
+Costa-Rica,costa-rica,"1,843,000",2020,123,Central America
+Uruguay,uruguay,"1,748,000",2017,124,South America
+Liberia,liberia,"1,677,000",2017,125,Africa
+Croatia,croatia,"1,656,000",2020,126,Europe
+Panama,panama,"1,633,000",2017,127,Central America
+Armenia,armenia,"1,507,000",2017,128,Middle East
+Mauritania,mauritania,"1,437,000",2017,129,Africa
+Lithuania,lithuania,"1,333,000",2020,130,Europe
+Moldova,moldova,"1,295,000",2017,131,Europe
+Mongolia,mongolia,"1,241,000",2017,132,East Asia/Southeast Asia
+Gaza-Strip,gaza-strip,"1,240,000",2017,133,Middle East
+West-Bank,west-bank,"1,240,000",2017,134,Middle East
+Botswana,botswana,"1,177,000",2017,135,Africa
+Puerto-Rico,puerto-rico,"1,139,000",2014,136,Central America
+Libya,libya,"1,114,000",2017,137,Africa
+Jamaica,jamaica,"1,113,000",2020,138,Central America
+Albania,albania,"1,104,000",2020,139,Europe
+Namibia,namibia,"956,800",2017,140,Africa
+Lesotho,lesotho,"930,800",2017,141,Africa
+Latvia,latvia,"885,000",2020,142,Europe
+Slovenia,slovenia,"885,000",2020,143,Europe
+Bahrain,bahrain,"831,600",2017,144,Middle East
+Bosnia-and-Herzegovina,bosnia-and-herzegovina,"806,000",2020,145,Europe
+Gambia-The,gambia-the,"777,100",2007,147,Africa
+Guinea-Bissau,guinea-bissau,"731,300",2013,148,Africa
+Jordan,jordan,"731,000",2020,149,Middle East
+Georgia,georgia,"686,000",2019,150,Middle East
+Estonia,estonia,"648,000",2020,151,Europe
+Trinidad-and-Tobago,trinidad-and-tobago,"629,400",2017,152,Central America
+Gabon,gabon,"557,800",2017,153,Africa
+Mauritius,mauritius,"554,000",2020,154,Africa
+Kosovo,kosovo,"500,300",2017,155,Europe
+Luxembourg,luxembourg,"476,000",2020,156,Europe
+Eswatini,eswatini,"427,900",2016,157,Africa
+Cyprus,cyprus,"416,000",2019,158,Europe
+Bhutan,bhutan,"397,900",2017,159,South Asia
+Macau,macau,"392,000",2020,160,East Asia/Southeast Asia
+Fiji,fiji,"353,100",2017,161,Australia - Oceania
+Guyana,guyana,"313,800",2013,162,South America
+Djibouti,djibouti,"294,600",2012,163,Africa
+Timor-Leste,timor-leste,"286,700",2016,164,East Asia/Southeast Asia
+Comoros,comoros,"278,500",2016,165,Africa
+Malta,malta,"223,000",2019,166,Europe
+Maldives,maldives,"222,200",2017,167,South Asia
+Brunei,brunei,"203,600",2014,168,East Asia/Southeast Asia
+Solomon-Islands,solomon-islands,"202,500",2007,169,Australia - Oceania
+Iceland,iceland,"200,000",2020,170,Europe
+Bahamas-The,bahamas-the,"196,900",2013,171,Central America
+Cabo-Verde,cabo-verde,"196,100",2007,172,Africa
+Equatorial-Guinea,equatorial-guinea,"195,200",2007,173,Africa
+Montenegro,montenegro,"167,000",2020,174,Europe
+Barbados,barbados,"144,000",2017,175,Central America
+Suriname,suriname,"144,000",2014,176,South America
+Sierra-Leone,sierra-leone,"132,000",2013,177,Africa
+French-Polynesia,french-polynesia,"126,300",2016,178,Australia - Oceania
+Belize,belize,"120,500",2008,179,Central America
+New-Caledonia,new-caledonia,"119,500",2016,180,Australia - Oceania
+Vanuatu,vanuatu,"115,900",2007,181,Australia - Oceania
+Saint-Lucia,saint-lucia,"79,700",2012,182,Central America
+Guam,guam,"73,210",2016,183,Australia - Oceania
+Curacao,curacao,"73,010",2013,184,Central America
+Sao-Tome-and-Principe,sao-tome-and-principe,"72,600",2017,185,Africa
+Jersey,jersey,"59,950",2017,186,Europe
+Saint-Vincent-and-the-Grenadines,saint-vincent-and-the-grenadines,"57,520",2007,187,Central America
+Grenada,grenada,"55,270",2017,188,Central America
+Monaco,monaco,"52,000",2014,189,Europe
+Aruba,aruba,"51,610",2007,190,Central America
+Seychelles,seychelles,"51,000",2018,191,Africa
+Samoa,samoa,"50,700",2016,192,Australia - Oceania
+Virgin-Islands,virgin-islands,"48,550",2016,193,Central America
+Isle-of-Man,isle-of-man,"41,790",2006,194,Europe
+Andorra,andorra,"39,750",2016,195,Europe
+Cayman-Islands,cayman-islands,"39,000",2007,196,Central America
+Kiribati,kiribati,"39,000",2010,197,Australia - Oceania
+Liechtenstein,liechtenstein,"38,520",2015,198,Europe
+Micronesia-Federated-States-of,micronesia-federated-states-of,"37,920",2010,199,Australia - Oceania
+Tonga,tonga,"33,800",2011,200,Australia - Oceania
+Bermuda,bermuda,"33,480",2016,201,North America
+Guernsey,guernsey,"31,470",2006,202,Europe
+Antigua-and-Barbuda,antigua-and-barbuda,"30,000",1991,203,Central America
+Northern-Mariana-Islands,northern-mariana-islands,"27,970",2010,204,Australia - Oceania
+Faroe-Islands,faroe-islands,"27,540",2017,205,Europe
+Greenland,greenland,"26,840",2015,206,North America
+Dominica,dominica,"25,000",2000,207,Central America
+Gibraltar,gibraltar,"24,420",2014,208,Europe
+Sint-Maarten,sint-maarten,"23,200",2008,209,Central America
+San-Marino,san-marino,"21,960",2013,210,Europe
+Saint-Kitts-and-Nevis,saint-kitts-and-nevis,"18,170",1995,211,Central America
+American-Samoa,american-samoa,"17,850",2015,212,Australia - Oceania
+Saint-Martin,saint-martin,"17,300",,213,Central America
+British-Virgin-Islands,british-virgin-islands,"12,770",2004,214,Central America
+Palau,palau,"11,610",2016,215,Australia - Oceania
+Marshall-Islands,marshall-islands,"10,670",2013,216,Australia - Oceania
+Cook-Islands,cook-islands,"6,820",2001,217,Australia - Oceania
+Anguilla,anguilla,"6,049",2001,218,Central America
+Turks-and-Caicos-Islands,turks-and-caicos-islands,"4,848",1990,219,Central America
+Holy-See-(Vatican-City),holy-see-vatican-city,"4,822",2016,220,Europe
+Montserrat,montserrat,"4,521",2012,221,Central America
+Wallis-and-Futuna,wallis-and-futuna,"4,482",2013,222,Australia - Oceania
+Saint-Pierre-and-Miquelon,saint-pierre-and-miquelon,"4,429",2015,223,North America
+Tuvalu,tuvalu,"3,615",2004,224,Australia - Oceania
+Saint-Helena-Ascension-and-Tristan-da-Cunha,saint-helena-ascension-and-tristan-da-cunha,"2,486",1998,225,Africa
+Falkland-Islands-(Islas-Malvinas),falkland-islands-islas-malvinas,"1,850",2016,226,South America
+Svalbard,svalbard,"1,590",2013,227,Europe
+Tokelau,tokelau,"1,100",2019,228,Australia - Oceania
+Norfolk-Island,norfolk-island,978,2006,229,Australia - Oceania
+Niue,niue,663,2001,230,Australia - Oceania
+Pitcairn-Islands,pitcairn-islands,15,2004,231,Australia - Oceania

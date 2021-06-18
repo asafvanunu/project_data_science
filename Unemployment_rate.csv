@@ -1,0 +1,219 @@
+name,slug,value_precent,date_of_information,ranking,region
+Cocos-(Keeling)-Islands,cocos-keeling-islands,0.1,2011,1,Australia - Oceania
+Cambodia,cambodia,0.3,2017,2,East Asia/Southeast Asia
+Niger,niger,0.3,2017,3,Africa
+Laos,laos,0.7,2017,4,East Asia/Southeast Asia
+Malta,malta,0.78,2019,5,Europe
+Belarus,belarus,0.8,2017,6,Europe
+Thailand,thailand,0.99,2019,7,East Asia/Southeast Asia
+Benin,benin,1,2014,8,Africa
+Falkland-Islands-(Islas-Malvinas),falkland-islands-islas-malvinas,1,2016,9,South America
+Gibraltar,gibraltar,1,2016,10,Europe
+Isle-of-Man,isle-of-man,1.1,2017,11,Europe
+Kuwait,kuwait,1.1,2017,12,Middle East
+Tonga,tonga,1.1,2011,13,Australia - Oceania
+Guernsey,guernsey,1.2,2016,14,Europe
+United-Arab-Emirates,united-arab-emirates,1.6,2016,15,Middle East
+Palau,palau,1.7,2015,16,Australia - Oceania
+Vanuatu,vanuatu,1.7,1999,17,Australia - Oceania
+Madagascar,madagascar,1.8,2017,18,Africa
+Macau,macau,2,2017,19,East Asia/Southeast Asia
+Monaco,monaco,2,2012,20,Europe
+Tokelau,tokelau,2,2015,21,Australia - Oceania
+Faroe-Islands,faroe-islands,2.2,2017,22,Europe
+Singapore,singapore,2.25,2019,23,East Asia/Southeast Asia
+Guatemala,guatemala,2.3,2017,24,Central America
+Switzerland,switzerland,2.31,2019,25,Europe
+Japan,japan,2.36,2019,26,East Asia/Southeast Asia
+Liechtenstein,liechtenstein,2.4,2015,27,Europe
+Tajikistan,tajikistan,2.4,2016,28,Central Asia
+Papua-New-Guinea,papua-new-guinea,2.5,2017,29,East Asia/Southeast Asia
+Cuba,cuba,2.6,2017,30,Central America
+Guinea,guinea,2.7,2017,31,Africa
+Rwanda,rwanda,2.7,2014,32,Africa
+Czechia,czechia,2.8,2019,33,Europe
+Liberia,liberia,2.8,2014,34,Africa
+British-Virgin-Islands,british-virgin-islands,2.9,2015,35,Central America
+Maldives,maldives,2.9,2017,36,South Asia
+Hong-Kong,hong-kong,2.93,2019,37,East Asia/Southeast Asia
+Nepal,nepal,3,2017,38,South Asia
+Seychelles,seychelles,3,2017,39,Africa
+Denmark,denmark,3.05,2019,40,Europe
+Romania,romania,3.06,2019,41,Europe
+Vietnam,vietnam,3.11,2018,42,East Asia/Southeast Asia
+United-Kingdom,united-kingdom,3.17,2019,43,Europe
+Kyrgyzstan,kyrgyzstan,3.18,2019,44,Central Asia
+Bhutan,bhutan,3.2,2017,45,South Asia
+Malaysia,malaysia,3.3,2019,46,East Asia/Southeast Asia
+Netherlands,netherlands,3.41,2019,47,Europe
+Hungary,hungary,3.45,2019,48,Europe
+Mexico,mexico,3.49,2019,49,North America
+Bahrain,bahrain,3.6,2017,50,Middle East
+Iceland,iceland,3.62,2019,51,Europe
+China,china,3.64,2019,52,East Asia/Southeast Asia
+Andorra,andorra,3.7,2016,53,Europe
+Norway,norway,3.72,2019,54,Europe
+Taiwan,taiwan,3.73,2019,55,East Asia/Southeast Asia
+Korea-South,korea-south,3.76,2019,56,East Asia/Southeast Asia
+Israel,israel,3.81,2019,57,Middle East
+United-States,united-states,3.89,2018,58,North America
+Bolivia,bolivia,4,2017,59,South America
+Burma,burma,4,2017,60,East Asia/Southeast Asia
+Cayman-Islands,cayman-islands,4,2008,61,Central America
+Jersey,jersey,4,2015,62,Europe
+New-Zealand,new-zealand,4.13,2019,63,Australia - Oceania
+Cameroon,cameroon,4.3,2014,64,Africa
+Bangladesh,bangladesh,4.4,2017,65,South Asia
+Timor-Leste,timor-leste,4.4,2014,66,East Asia/Southeast Asia
+Fiji,fiji,4.5,2017,67,Australia - Oceania
+Guam,guam,4.5,2017,68,Australia - Oceania
+Saint-Kitts-and-Nevis,saint-kitts-and-nevis,4.5,1997,69,Central America
+Russia,russia,4.6,2019,70,Central Asia
+Kazakhstan,kazakhstan,4.8,2019,71,Central Asia
+Sri-Lanka,sri-lanka,4.83,2019,72,South Asia
+Trinidad-and-Tobago,trinidad-and-tobago,4.9,2017,73,Central America
+Estonia,estonia,4.94,2019,74,Europe
+Ireland,ireland,4.98,2019,75,Europe
+Germany,germany,4.98,2019,76,Europe
+Moldova,moldova,4.99,2019,77,Europe
+Slovakia,slovakia,5,2019,78,Europe
+Azerbaijan,azerbaijan,5,2017,79,Middle East
+Uzbekistan,uzbekistan,5,2017,80,Central Asia
+Dominican-Republic,dominican-republic,5.1,2017,81,Central America
+Philippines,philippines,5.11,2019,82,East Asia/Southeast Asia
+Australia,australia,5.16,2019,83,Australia - Oceania
+Samoa,samoa,5.2,2017,84,Australia - Oceania
+Indonesia,indonesia,5.31,2018,85,East Asia/Southeast Asia
+Belgium,belgium,5.36,2019,86,Europe
+Luxembourg,luxembourg,5.36,2019,87,Europe
+Poland,poland,5.43,2019,88,Europe
+Honduras,honduras,5.6,2017,89,Central America
+Montserrat,montserrat,5.6,2017,90,Central America
+Bulgaria,bulgaria,5.66,2019,91,Europe
+Canada,canada,5.67,2019,92,North America
+Paraguay,paraguay,5.7,2017,93,South America
+Ecuador,ecuador,5.71,2019,94,South America
+Eritrea,eritrea,5.8,2017,95,Africa
+Albania,albania,5.83,2019,96,Europe
+Pakistan,pakistan,6,2017,97,South Asia
+Saudi-Arabia,saudi-arabia,6,2017,98,Middle East
+Panama,panama,6.14,2018,99,Central America
+Latvia,latvia,6.14,2019,100,Europe
+Nicaragua,nicaragua,6.4,2017,101,Central America
+Comoros,comoros,6.5,2014,102,Africa
+Portugal,portugal,6.55,2019,103,Europe
+Peru,peru,6.58,2019,104,South America
+Angola,angola,6.6,2016,105,Africa
+Finland,finland,6.63,2019,106,Europe
+Mauritius,mauritius,6.65,2019,107,Africa
+Sweden,sweden,6.78,2019,108,Europe
+Brunei,brunei,6.9,2017,109,East Asia/Southeast Asia
+Central-African-Republic,central-african-republic,6.9,2017,110,Africa
+Togo,togo,6.9,2016,111,Africa
+Venezuela,venezuela,6.9,2018,112,South America
+Bermuda,bermuda,7,2017,113,North America
+El-Salvador,el-salvador,7,2017,114,Central America
+Cyprus,cyprus,7.07,2019,115,Europe
+Chile,chile,7.22,2019,116,South America
+Austria,austria,7.35,2019,117,Europe
+Uruguay,uruguay,7.6,2017,118,South America
+Slovenia,slovenia,7.64,2019,119,Europe
+Aruba,aruba,7.7,2016,120,Central America
+Jamaica,jamaica,7.72,2019,121,Central America
+Egypt,egypt,7.86,2019,122,Africa
+Mali,mali,7.9,2017,123,Africa
+Anguilla,anguilla,8,2002,124,Central America
+Mongolia,mongolia,8,2017,125,East Asia/Southeast Asia
+Croatia,croatia,8.07,2019,126,Europe
+Costa-Rica,costa-rica,8.1,2017,127,Central America
+San-Marino,san-marino,8.1,2017,128,Europe
+France,france,8.12,2019,129,Europe
+Lithuania,lithuania,8.4,2019,130,Europe
+India,india,8.5,2017,131,South Asia
+Equatorial-Guinea,equatorial-guinea,8.6,2014,132,Africa
+Saint-Pierre-and-Miquelon,saint-pierre-and-miquelon,8.7,2015,133,North America
+Wallis-and-Futuna,wallis-and-futuna,8.8,2013,134,Australia - Oceania
+Ukraine,ukraine,8.89,2019,135,Europe
+Qatar,qatar,8.9,2017,136,Middle East
+Suriname,suriname,8.9,2017,137,South America
+Belize,belize,9,2017,138,Central America
+Cabo-Verde,cabo-verde,9,2017,139,Africa
+Greenland,greenland,9.1,2015,140,North America
+Morocco,morocco,9.23,2019,141,Africa
+Cote-d'Ivoire,cote-divoire,9.4,2013,142,Africa
+Uganda,uganda,9.4,2014,143,Africa
+Lebanon,lebanon,9.7,2007,144,Middle East
+Argentina,argentina,9.84,2019,145,South America
+Italy,italy,9.88,2019,146,Europe
+Turks-and-Caicos-Islands,turks-and-caicos-islands,10,1997,147,Central America
+Bahamas-The,bahamas-the,10.1,2017,148,Central America
+Barbados,barbados,10.1,2017,149,Central America
+Mauritania,mauritania,10.2,2017,150,Africa
+Tanzania,tanzania,10.3,2014,151,Africa
+Virgin-Islands,virgin-islands,10.4,2017,152,Central America
+Colombia,colombia,10.5,2019,153,South America
+Puerto-Rico,puerto-rico,10.8,2017,154,Central America
+Antigua-and-Barbuda,antigua-and-barbuda,11,2014,155,Central America
+Turkmenistan,turkmenistan,11,2014,156,Central Asia
+Guyana,guyana,11.1,2013,157,South America
+Northern-Mariana-Islands,northern-mariana-islands,11.2,2010,158,Australia - Oceania
+Zimbabwe,zimbabwe,11.3,2014,159,Africa
+Algeria,algeria,11.7,2017,160,Africa
+Georgia,georgia,11.8,2016,161,Middle East
+Iran,iran,11.8,2017,162,Middle East
+Ghana,ghana,11.9,2015,163,Africa
+Brazil,brazil,11.93,2019,164,South America
+Niue,niue,12,2001,165,Australia - Oceania
+Sint-Maarten,sint-maarten,12,2012,166,Central America
+Sao-Tome-and-Principe,sao-tome-and-principe,12.2,2017,167,Africa
+Curacao,curacao,13,2013,168,Central America
+Cook-Islands,cook-islands,13.1,2005,169,Australia - Oceania
+Turkey,turkey,13.68,2019,170,Middle East
+Saint-Helena-Ascension-and-Tristan-da-Cunha,saint-helena-ascension-and-tristan-da-cunha,14,1998,171,Africa
+Serbia,serbia,14.1,2017,172,Europe
+Spain,spain,14.13,2019,173,Europe
+New-Caledonia,new-caledonia,14.7,2014,174,Australia - Oceania
+Sierra-Leone,sierra-leone,15,2017,175,Africa
+Zambia,zambia,15,2008,176,Africa
+Tunisia,tunisia,15.5,2017,177,Africa
+Montenegro,montenegro,15.82,2019,178,Europe
+Iraq,iraq,16,2012,179,Middle East
+Micronesia-Federated-States-of,micronesia-federated-states-of,16.2,2010,180,Australia - Oceania
+Nigeria,nigeria,16.5,2017,181,Africa
+Greece,greece,17.3,2019,183,Europe
+Ethiopia,ethiopia,17.5,2012,184,Africa
+Saint-Vincent-and-the-Grenadines,saint-vincent-and-the-grenadines,18.8,2008,185,Central America
+Armenia,armenia,18.9,2017,186,Middle East
+Jordan,jordan,19.1,2019,187,Middle East
+Sudan,sudan,19.6,2017,188,Africa
+Botswana,botswana,20,2013,189,Africa
+Saint-Lucia,saint-lucia,20,2003,190,Central America
+Malawi,malawi,20.4,2013,191,Africa
+French-Polynesia,french-polynesia,21.8,2012,192,Australia - Oceania
+Dominica,dominica,23,2000,193,Central America
+Nauru,nauru,23,2011,194,Australia - Oceania
+Afghanistan,afghanistan,23.9,2017,195,South Asia
+Grenada,grenada,24,2017,196,Central America
+Mozambique,mozambique,24.5,2017,197,Africa
+Korea-North,korea-north,25.6,2013,198,East Asia/Southeast Asia
+Yemen,yemen,27,2014,199,Middle East
+Gaza-Strip,gaza-strip,27.9,2017,200,Middle East
+West-Bank,west-bank,27.9,2017,201,Middle East
+Eswatini,eswatini,28,2014,202,Africa
+Gabon,gabon,28,2015,203,Africa
+Lesotho,lesotho,28.1,2014,204,Africa
+South-Africa,south-africa,28.53,2019,205,Africa
+American-Samoa,american-samoa,29.8,2005,206,Australia - Oceania
+Libya,libya,30,2004,207,Africa
+Kosovo,kosovo,30.5,2017,208,Europe
+Kiribati,kiribati,30.6,2010,209,Australia - Oceania
+Bosnia-and-Herzegovina,bosnia-and-herzegovina,33.28,2019,210,Europe
+Namibia,namibia,34,2016,211,Africa
+Congo-Republic-of-the,congo-republic-of-the,36,2014,212,Africa
+Marshall-Islands,marshall-islands,36,2006,213,Australia - Oceania
+Djibouti,djibouti,40,2017,214,Africa
+Kenya,kenya,40,2013,215,Africa
+Haiti,haiti,40.6,2010,216,Central America
+Senegal,senegal,48,2007,217,Africa
+Syria,syria,50,2017,218,Middle East
+Burkina-Faso,burkina-faso,77,2004,219,Africa
