@@ -52,3 +52,25 @@ Low = Low%>%
 Middle = Middle%>%
   rename(Country_Name = ן..Country_Name)
 
+## Join EPI and World Bank - year 2016
+
+##middle
+
+M_model=Middle%>%
+  filter(Time == 2016)%>%
+  inner_join(EPI_2020, by = c("Country_Name"="country"))
+
+##Low
+L_model=Low%>%
+  filter(Time == 2016)%>%
+  inner_join(EPI_2020, by = c("Country_Name"="country"))
+
+##High
+H_model=High%>%
+  filter(Time == 2016)%>%
+  inner_join(EPI_2020, by = c("Country_Name"="country"))
+
+##World
+W_model=World%>%
+  filter(Time == 2016)%>%
+  inner_join(EPI_2020, by = c("Country_Name"="country"))
