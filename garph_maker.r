@@ -1,9 +1,5 @@
 ##EPI Vs WorldBank
 ##Middle
-M_model=Middle%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))
-
 ## plot
  Middle%>%
   filter(Time == 2016)%>%
@@ -17,10 +13,6 @@ summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = M_model))
    
 
 ## Low
-L_model=Low%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))
-
 ## plot
 Low%>%
   filter(Time == 2016)%>%
@@ -34,9 +26,7 @@ summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = L_model))
 
 
 ## High
-H_model=High%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))
+
 
 ## plot
 High%>%
@@ -50,10 +40,6 @@ High%>%
 summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = H_model))
 
 ## World
-W_model=World%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))
-
 ## plot
 World%>%
   filter(Time == 2016)%>%

@@ -74,3 +74,12 @@ H_model=High%>%
 W_model=World%>%
   filter(Time == 2016)%>%
   inner_join(EPI_2020, by = c("Country_Name"="country"))
+
+
+
+
+
+
+
+
+
