@@ -9,8 +9,7 @@ FM_model%>%
 
 
 ## statistics
-summary(lm(EPI_new ~ GDP_per_capita_current_US_dollar_  , data = FM_model))
-
+cor.test(FM_model$GDP_per_capita_current_US_dollar_, FM_model$EPI_new)
 
 ## Low
 ## plot
@@ -20,7 +19,9 @@ FL_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ GDP_per_capita_current_US_dollar_  , data = FL_model))
+shapiro.test(FL_model$EPI_new)
+shapiro.test(FL_model$GDP_per_capita_current_US_dollar_)
+cor.test(FL_model$GDP_per_capita_current_US_dollar_, FL_model$EPI_new, method =  "spearman")
 
 
 ## High
@@ -33,7 +34,7 @@ FH_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ GDP_per_capita_current_US_dollar_  , data = FH_model))
+cor.test(FH_model$GDP_per_capita_current_US_dollar_, FH_model$EPI_new)
 
 ## World
 ## plot
@@ -43,5 +44,5 @@ FW_model%>%
   geom_point() + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ GDP_per_capita_current_US_dollar_  , data = FW_model))
+cor.test(FW_model$GDP_per_capita_current_US_dollar_, FW_model$EPI_new)
 

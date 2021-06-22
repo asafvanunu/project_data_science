@@ -8,7 +8,7 @@ FM_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ Gini_index_World_Bank_estimate_, data = FM_model))
+cor.test(FM_model$Gini_index_World_Bank_estimate_, FM_model$EPI_new)
 
 
 ## Low
@@ -20,8 +20,8 @@ FL_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ Gini_index_World_Bank_estimate_, data = FL_model))
-
+shapiro.test(FL_model$Gini_index_World_Bank_estimate_)
+cor.test(FL_model$Gini_index_World_Bank_estimate_, FL_model$EPI_new, method = "spearman")
 
 ## High
 
@@ -32,8 +32,7 @@ FH_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ Gini_index_World_Bank_estimate_, data = FH_model))
-
+cor.test(FH_model$Gini_index_World_Bank_estimate_, FH_model$EPI_new)
 ## World
 
 
@@ -44,6 +43,5 @@ FW_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ Gini_index_World_Bank_estimate_, data = FW_model))
-
+cor.test(FW_model$Gini_index_World_Bank_estimate_, FW_model$EPI_new)
 

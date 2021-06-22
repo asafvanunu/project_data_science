@@ -8,8 +8,7 @@ FM_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = FM_model))
-
+cor.test(FM_model$value_kWh, FM_model$EPI_new)
 ##Low
 FL_model%>%
   ggplot(aes(x = value_kWh , y = EPI_new)) +
@@ -17,8 +16,9 @@ FL_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = FL_model))
-
+shapiro.test(FL_model$EPI_new)
+shapiro.test(FL_model$value_kWh)
+cor.test(FL_model$value_kWh, FL_model$EPI_new, method = "spearman")
 
 ##High
 FH_model%>%
@@ -28,8 +28,7 @@ FH_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = FH_model))
-
+cor.test(FH_model$value_kWh, FH_model$EPI_new)
 ## World
 FW_model%>%
   filter(value_kWh<1e+11)%>%
@@ -38,4 +37,4 @@ FW_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")  
   
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = FW_model))
+cor.test(FW_model$value_kWh, FW_model$EPI_new)

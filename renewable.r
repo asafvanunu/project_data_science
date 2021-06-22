@@ -1,38 +1,12 @@
-##Middle
-FM_model=Middle%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))
-
-
-##Low
-FL_model=Low%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))
-
-##High
-FH_model=High%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))
-
-##World
-FW_model=World%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))
-
-
 
 ##Middle
 FM_model%>%
   ggplot(aes(x = renewable_energy_precent , y = EPI_new)) +
   labs(title = "EPI Vs Renewable energy - middle income", x = "%", y = "EPI score") +
-  geom_point(aes(colour = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ renewable_energy_precent , data = FM_model))
+cor.test(FM_model$renewable_energy_precent, FM_model$EPI_new)
 
 ##Low
 FL_model%>%
@@ -41,23 +15,22 @@ FL_model%>%
   geom_point(aes(colour = Country_Name)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ renewable_energy_precent , data = FL_model))
-
+shapiro.test(FL_model$renewable_energy_precent)
+cor.test(FL_model$renewable_energy_precent, FL_model$EPI_new, method = "spearman")
 
 ##High
 FH_model%>%
   ggplot(aes(x = renewable_energy_precent , y = EPI_new)) +
   labs(title = "EPI Vs Renewable energy - High income", x = "%", y = "EPI score") +
-  geom_point(aes(colour = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ renewable_energy_precent , data = FH_model))
-
+cor.test(FH_model$renewable_energy_precent, FH_model$EPI_new)
 ## World
 FW_model%>%
   ggplot(aes(x = renewable_energy_precent , y = EPI_new)) +
   labs(title = "EPI Vs Renewable energy - World", x = "%", y = "EPI score") +
-  geom_point(aes(colour = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")  
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")  
 
 ## statistics
-summary(lm(EPI_new ~ renewable_energy_precent , data = FW_model))
+cor.test(FW_model$renewable_energy_precent, FW_model$EPI_new)

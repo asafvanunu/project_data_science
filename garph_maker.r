@@ -7,7 +7,7 @@ FM_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FM_model))
+cor.test(FM_model$CO2_emissions_metric_tons_per_capita_, FM_model$EPI_new)
 
 
 ## Low
@@ -18,7 +18,9 @@ FL_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FL_model))
+shapiro.test(FL_model$EPI_new)
+shapiro.test(FL_model$CO2_emissions_metric_tons_per_capita_)
+cor.test(FL_model$CO2_emissions_metric_tons_per_capita_, FL_model$EPI_new, method = "spearman")
 
 
 ## High
@@ -31,7 +33,7 @@ FH_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FH_model))
+cor.test(FH_model$CO2_emissions_metric_tons_per_capita_, FH_model$EPI_new)
 
 ## World
 ## plot
@@ -41,5 +43,5 @@ FW_model%>%
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FW_model))
+cor.test(FW_model$CO2_emissions_metric_tons_per_capita_, FW_model$EPI_new)
 
