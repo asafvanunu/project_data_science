@@ -1,65 +1,41 @@
-##Middle
-EM_model=Middle%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_consumption, by = c("Country_Name"="name"))
-
-##Low
-EL_model=Low%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_consumption, by = c("Country_Name"="name"))
-
-##High
-EH_model=High%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_consumption, by = c("Country_Name"="name"))
-
-##World
-EW_model=World%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
-  inner_join(Electricity_consumption, by = c("Country_Name"="name"))
-  
 
 
 ##Middle
-EM_model%>%
+FM_model%>%
   filter(value_kWh<1e+11)%>%
   ggplot(aes(x = value_kWh , y = EPI_new)) +
-  labs(title = "EPI Vs Electricity consumption - middle income", x = "kWh", y = "EPI score") +
-  geom_point(aes(colour = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs Electricity consumption - middle income - 2016", x = "kWh", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = EM_model))
+summary(lm(EPI_new ~ value_kWh , data = FM_model))
 
 ##Low
-EL_model%>%
+FL_model%>%
   ggplot(aes(x = value_kWh , y = EPI_new)) +
-  labs(title = "EPI Vs Electricity consumption - Low income", x = "kWh", y = "EPI score") +
-  geom_point(aes(colour = Country_Name, size = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs Electricity consumption - Low income - 2016", x = "kWh", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = EL_model))
+summary(lm(EPI_new ~ value_kWh , data = FL_model))
 
 
 ##High
-EH_model%>%
+FH_model%>%
   filter(value_kWh<1e+11)%>%
   ggplot(aes(x = value_kWh , y = EPI_new)) +
-  labs(title = "EPI Vs Electricity consumption - High income", x = "kWh", y = "EPI score") +
-  geom_point(aes(colour = Country_Name, size = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs Electricity consumption - High income - 2016", x = "kWh", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = EH_model))
+summary(lm(EPI_new ~ value_kWh , data = FH_model))
 
 ## World
-EW_model%>%
+FW_model%>%
   filter(value_kWh<1e+11)%>%
   ggplot(aes(x = value_kWh , y = EPI_new)) +
-  labs(title = "EPI Vs Electricity consumption - World", x = "kWh", y = "EPI score") +
-  geom_point(aes(colour = region)) + geom_smooth(method = "lm", se = FALSE, colour = "red")  
+  labs(title = "EPI Vs Electricity consumption - World - 2016", x = "kWh", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")  
   
 ## statistics
-summary(lm(EPI_new ~ value_kWh , data = EW_model))
+summary(lm(EPI_new ~ value_kWh , data = FW_model))

@@ -1,53 +1,45 @@
 ##EPI Vs WorldBank
 ##Middle
 ## plot
- Middle%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
+FM_model%>%
   ggplot(aes(x = CO2_emissions_metric_tons_per_capita_ , y = EPI_new)) +
-  labs(title = "EPI Vs CO2 Emission - Middle income", x = "CO2 emission - tons  per capita", y = "EPI score") +
-  geom_point(aes(colour = Country_Name)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs CO2 Emission - Middle income - 2016", x = "CO2 emission - tons  per capita", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
- ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = M_model))
-   
+## statistics
+summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FM_model))
+
 
 ## Low
 ## plot
-Low%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
+FL_model%>%
   ggplot(aes(x = CO2_emissions_metric_tons_per_capita_ , y = EPI_new)) +
-  labs(title = "EPI Vs CO2 Emission - Low income", x = "CO2 emission - tons  per capita", y = "EPI score") +
-  geom_point(aes(colour = Country_Name)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs CO2 Emission - Low income - 2016", x = "CO2 emission - tons  per capita", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = L_model))
+summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FL_model))
 
 
 ## High
 
 
 ## plot
-High%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
+FH_model%>%
   ggplot(aes(x = CO2_emissions_metric_tons_per_capita_ , y = EPI_new)) +
-  labs(title = "EPI Vs CO2 Emission - High income", x = "CO2 emission - tons  per capita", y = "EPI score") +
-  geom_point(aes(colour = Country_Name)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs CO2 Emission - High income - 2016", x = "CO2 emission - tons  per capita", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = H_model))
+summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FH_model))
 
 ## World
 ## plot
-World%>%
-  filter(Time == 2016)%>%
-  inner_join(EPI_2020, by = c("Country_Name"="country"))%>%
+FW_model%>%
   ggplot(aes(x = CO2_emissions_metric_tons_per_capita_ , y = EPI_new)) +
-  labs(title = "EPI Vs CO2 Emission - World", x = "CO2 emission - tons  per capita", y = "EPI score") +
-  geom_point() + geom_smooth(method = "lm", se = FALSE, colour = "red")
+  labs(title = "EPI Vs CO2 Emission - World - 2016", x = "CO2 emission - tons  per capita", y = "EPI score") +
+  geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
-summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = W_model))
+summary(lm(EPI_new ~ CO2_emissions_metric_tons_per_capita_ , data = FW_model))
 

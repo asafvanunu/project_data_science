@@ -52,6 +52,10 @@ Low = Low%>%
 Middle = Middle%>%
   rename(Country_Name = ן..Country_Name)
 
+## reselecting EPI_2020
+EPI_2020 = EPI_2020%>%
+  select(country, EPI_new)
+
 ## Join EPI and World Bank - year 2016
 
 ##middle
@@ -65,6 +69,7 @@ L_model=Low%>%
   filter(Time == 2016)%>%
   inner_join(EPI_2020, by = c("Country_Name"="country"))
 
+
 ##High
 H_model=High%>%
   filter(Time == 2016)%>%
@@ -75,6 +80,37 @@ W_model=World%>%
   filter(Time == 2016)%>%
   inner_join(EPI_2020, by = c("Country_Name"="country"))
 
+## Models for graph
+
+##Middle
+FM_model=Middle%>%
+  filter(Time == 2016)%>%
+  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
+  left_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))%>%
+  left_join(Electricity_consumption, by = c("Country_Name"="name"))%>%
+  mutate(renewable_energy_precent = 100-value_precent)
+
+##Low
+FL_model=Low%>%
+  filter(Time == 2016)%>%
+  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
+  left_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))%>%
+  left_join(Electricity_consumption, by = c("Country_Name"="name"))%>%
+  mutate(renewable_energy_precent = 100-value_precent)
+##High
+FH_model=High%>%
+  filter(Time == 2016)%>%
+  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
+  left_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))%>%
+  left_join(Electricity_consumption, by = c("Country_Name"="name"))%>%
+  mutate(renewable_energy_precent = 100-value_precent)
+##World
+FW_model=World%>%
+  filter(Time == 2016)%>%
+  left_join(EPI_2020, by = c("Country_Name"="country"))%>%
+  left_join(Electricity_from_fossil_fuels, by = c("Country_Name"="name"))%>%
+  left_join(Electricity_consumption, by = c("Country_Name"="name"))%>%
+  mutate(renewable_energy_precent = 100-value_precent)
 
 
 
