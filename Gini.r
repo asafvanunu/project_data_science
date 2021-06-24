@@ -28,7 +28,7 @@ cor.test(FL_model$Gini_index_World_Bank_estimate_, FL_model$EPI_new, method = "s
 ## plot
 FH_model%>%
   ggplot(aes(x = Gini_index_World_Bank_estimate_, y = EPI_new)) +
-  labs(title = "EPI Vs Gini Index - High income", x = "Gini Index", y = "EPI score") +
+  labs(title = "EPI Vs Gini Index - High income - 2016", x = "Gini Index", y = "EPI score") +
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
@@ -39,7 +39,7 @@ cor.test(FH_model$Gini_index_World_Bank_estimate_, FH_model$EPI_new)
 ## plot
 FW_model%>%
   ggplot(aes(x = Gini_index_World_Bank_estimate_, y = EPI_new)) +
-  labs(title = "EPI Vs Gini Index - World", x = "Gini Index", y = "EPI score") +
+  labs(title = "EPI Vs Gini Index - World - 2016", x = "Gini Index", y = "EPI score") +
   geom_point(aes(colour = region.x)) + geom_smooth(method = "lm", se = FALSE, colour = "red")
 
 ## statistics
